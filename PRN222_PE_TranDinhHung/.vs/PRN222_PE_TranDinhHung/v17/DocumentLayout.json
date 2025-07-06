@@ -3,20 +3,64 @@
   "WorkspaceRootPath": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{401CA192-FDA3-4E3C-8DD1-E072ABE6FDB3}|MovieWeb_DAO\\MovieWeb_DAO.csproj|d:\\2025year\\toolfordev\\folk\\repostorage\\prn222_fallpe\\prn222_pe_trandinhhung\\movieweb_dao\\movieweb_dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{401CA192-FDA3-4E3C-8DD1-E072ABE6FDB3}|MovieWeb_DAO\\MovieWeb_DAO.csproj|solutionrelative:movieweb_dao\\movieweb_dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{06E7246B-8BD8-4123-9ED7-BB7D0E437BB8}|MovieWeb._QE171094_TranDinhHung\\MovieWeb._QE171094_TranDinhHung.csproj|d:\\2025year\\toolfordev\\folk\\repostorage\\prn222_fallpe\\prn222_pe_trandinhhung\\movieweb._qe171094_trandinhhung\\pages\\movies\\director_movie.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E7246B-8BD8-4123-9ED7-BB7D0E437BB8}|MovieWeb._QE171094_TranDinhHung\\MovieWeb._QE171094_TranDinhHung.csproj|solutionrelative:movieweb._qe171094_trandinhhung\\pages\\movies\\director_movie.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E7246B-8BD8-4123-9ED7-BB7D0E437BB8}|MovieWeb._QE171094_TranDinhHung\\MovieWeb._QE171094_TranDinhHung.csproj|d:\\2025year\\toolfordev\\folk\\repostorage\\prn222_fallpe\\prn222_pe_trandinhhung\\movieweb._qe171094_trandinhhung\\pages\\movies\\director_movie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06E7246B-8BD8-4123-9ED7-BB7D0E437BB8}|MovieWeb._QE171094_TranDinhHung\\MovieWeb._QE171094_TranDinhHung.csproj|solutionrelative:movieweb._qe171094_trandinhhung\\pages\\movies\\director_movie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E7246B-8BD8-4123-9ED7-BB7D0E437BB8}|MovieWeb._QE171094_TranDinhHung\\MovieWeb._QE171094_TranDinhHung.csproj|d:\\2025year\\toolfordev\\folk\\repostorage\\prn222_fallpe\\prn222_pe_trandinhhung\\movieweb._qe171094_trandinhhung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E7246B-8BD8-4123-9ED7-BB7D0E437BB8}|MovieWeb._QE171094_TranDinhHung\\MovieWeb._QE171094_TranDinhHung.csproj|solutionrelative:movieweb._qe171094_trandinhhung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E7246B-8BD8-4123-9ED7-BB7D0E437BB8}|MovieWeb._QE171094_TranDinhHung\\MovieWeb._QE171094_TranDinhHung.csproj|d:\\2025year\\toolfordev\\folk\\repostorage\\prn222_fallpe\\prn222_pe_trandinhhung\\movieweb._qe171094_trandinhhung\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06E7246B-8BD8-4123-9ED7-BB7D0E437BB8}|MovieWeb._QE171094_TranDinhHung\\MovieWeb._QE171094_TranDinhHung.csproj|solutionrelative:movieweb._qe171094_trandinhhung\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401CA192-FDA3-4E3C-8DD1-E072ABE6FDB3}|MovieWeb_DAO\\MovieWeb_DAO.csproj|d:\\2025year\\toolfordev\\folk\\repostorage\\prn222_fallpe\\prn222_pe_trandinhhung\\movieweb_dao\\moviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401CA192-FDA3-4E3C-8DD1-E072ABE6FDB3}|MovieWeb_DAO\\MovieWeb_DAO.csproj|solutionrelative:movieweb_dao\\moviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401CA192-FDA3-4E3C-8DD1-E072ABE6FDB3}|MovieWeb_DAO\\MovieWeb_DAO.csproj|d:\\2025year\\toolfordev\\folk\\repostorage\\prn222_fallpe\\prn222_pe_trandinhhung\\movieweb_dao\\directordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401CA192-FDA3-4E3C-8DD1-E072ABE6FDB3}|MovieWeb_DAO\\MovieWeb_DAO.csproj|solutionrelative:movieweb_dao\\directordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70600055-5CD0-4AEC-99BD-F7E34B54F8EC}|MovieWeb_BO\\MovieWeb_BO.csproj|d:\\2025year\\toolfordev\\folk\\repostorage\\prn222_fallpe\\prn222_pe_trandinhhung\\movieweb_bo\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70600055-5CD0-4AEC-99BD-F7E34B54F8EC}|MovieWeb_BO\\MovieWeb_BO.csproj|solutionrelative:movieweb_bo\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E7246B-8BD8-4123-9ED7-BB7D0E437BB8}|MovieWeb._QE171094_TranDinhHung\\MovieWeb._QE171094_TranDinhHung.csproj|d:\\2025year\\toolfordev\\folk\\repostorage\\prn222_fallpe\\prn222_pe_trandinhhung\\movieweb._qe171094_trandinhhung\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06E7246B-8BD8-4123-9ED7-BB7D0E437BB8}|MovieWeb._QE171094_TranDinhHung\\MovieWeb._QE171094_TranDinhHung.csproj|solutionrelative:movieweb._qe171094_trandinhhung\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06E7246B-8BD8-4123-9ED7-BB7D0E437BB8}|MovieWeb._QE171094_TranDinhHung\\MovieWeb._QE171094_TranDinhHung.csproj|d:\\2025year\\toolfordev\\folk\\repostorage\\prn222_fallpe\\prn222_pe_trandinhhung\\movieweb._qe171094_trandinhhung\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{06E7246B-8BD8-4123-9ED7-BB7D0E437BB8}|MovieWeb._QE171094_TranDinhHung\\MovieWeb._QE171094_TranDinhHung.csproj|solutionrelative:movieweb._qe171094_trandinhhung\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{03EFDE1C-3C53-4F99-BC3D-7B7A6D678440}|MovieWeb_Repo\\MovieWeb_Repo.csproj|d:\\2025year\\toolfordev\\folk\\repostorage\\prn222_fallpe\\prn222_pe_trandinhhung\\movieweb_repo\\movierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EFDE1C-3C53-4F99-BC3D-7B7A6D678440}|MovieWeb_Repo\\MovieWeb_Repo.csproj|solutionrelative:movieweb_repo\\movierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EFDE1C-3C53-4F99-BC3D-7B7A6D678440}|MovieWeb_Repo\\MovieWeb_Repo.csproj|d:\\2025year\\toolfordev\\folk\\repostorage\\prn222_fallpe\\prn222_pe_trandinhhung\\movieweb_repo\\imovierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EFDE1C-3C53-4F99-BC3D-7B7A6D678440}|MovieWeb_Repo\\MovieWeb_Repo.csproj|solutionrelative:movieweb_repo\\imovierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EFDE1C-3C53-4F99-BC3D-7B7A6D678440}|MovieWeb_Repo\\MovieWeb_Repo.csproj|d:\\2025year\\toolfordev\\folk\\repostorage\\prn222_fallpe\\prn222_pe_trandinhhung\\movieweb_repo\\directorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EFDE1C-3C53-4F99-BC3D-7B7A6D678440}|MovieWeb_Repo\\MovieWeb_Repo.csproj|solutionrelative:movieweb_repo\\directorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EFDE1C-3C53-4F99-BC3D-7B7A6D678440}|MovieWeb_Repo\\MovieWeb_Repo.csproj|d:\\2025year\\toolfordev\\folk\\repostorage\\prn222_fallpe\\prn222_pe_trandinhhung\\movieweb_repo\\idirectorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EFDE1C-3C53-4F99-BC3D-7B7A6D678440}|MovieWeb_Repo\\MovieWeb_Repo.csproj|solutionrelative:movieweb_repo\\idirectorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{03EFDE1C-3C53-4F99-BC3D-7B7A6D678440}|MovieWeb_Repo\\MovieWeb_Repo.csproj|d:\\2025year\\toolfordev\\folk\\repostorage\\prn222_fallpe\\prn222_pe_trandinhhung\\movieweb_repo\\movieweb_repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{03EFDE1C-3C53-4F99-BC3D-7B7A6D678440}|MovieWeb_Repo\\MovieWeb_Repo.csproj|solutionrelative:movieweb_repo\\movieweb_repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03EFDE1C-3C53-4F99-BC3D-7B7A6D678440}|MovieWeb_Repo\\MovieWeb_Repo.csproj|d:\\2025year\\toolfordev\\folk\\repostorage\\prn222_fallpe\\prn222_pe_trandinhhung\\movieweb_repo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03EFDE1C-3C53-4F99-BC3D-7B7A6D678440}|MovieWeb_Repo\\MovieWeb_Repo.csproj|solutionrelative:movieweb_repo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{401CA192-FDA3-4E3C-8DD1-E072ABE6FDB3}|MovieWeb_DAO\\MovieWeb_DAO.csproj|d:\\2025year\\toolfordev\\folk\\repostorage\\prn222_fallpe\\prn222_pe_trandinhhung\\movieweb_dao\\movieweb_dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{401CA192-FDA3-4E3C-8DD1-E072ABE6FDB3}|MovieWeb_DAO\\MovieWeb_DAO.csproj|solutionrelative:movieweb_dao\\movieweb_dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +70,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb._QE171094_TranDinhHung\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieWeb._QE171094_TranDinhHung\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb._QE171094_TranDinhHung\\Pages\\Index.cshtml",
+              "RelativeToolTip": "MovieWeb._QE171094_TranDinhHung\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T03:25:20.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DirectorDAO.cs",
+              "DocumentMoniker": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_DAO\\DirectorDAO.cs",
+              "RelativeDocumentMoniker": "MovieWeb_DAO\\DirectorDAO.cs",
+              "ToolTip": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_DAO\\DirectorDAO.cs",
+              "RelativeToolTip": "MovieWeb_DAO\\DirectorDAO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T02:45:53.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieDAO.cs",
+              "DocumentMoniker": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_DAO\\MovieDAO.cs",
+              "RelativeDocumentMoniker": "MovieWeb_DAO\\MovieDAO.cs",
+              "ToolTip": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_DAO\\MovieDAO.cs",
+              "RelativeToolTip": "MovieWeb_DAO\\MovieDAO.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T02:46:10.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_BO\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieWeb_BO\\Entities\\Movie.cs",
+              "ToolTip": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_BO\\Entities\\Movie.cs",
+              "RelativeToolTip": "MovieWeb_BO\\Entities\\Movie.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:52:21.836Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Director_Movie.cshtml",
+              "DocumentMoniker": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb._QE171094_TranDinhHung\\Pages\\Movies\\Director_Movie.cshtml",
+              "RelativeDocumentMoniker": "MovieWeb._QE171094_TranDinhHung\\Pages\\Movies\\Director_Movie.cshtml",
+              "ToolTip": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb._QE171094_TranDinhHung\\Pages\\Movies\\Director_Movie.cshtml",
+              "RelativeToolTip": "MovieWeb._QE171094_TranDinhHung\\Pages\\Movies\\Director_Movie.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T03:45:18.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Director_Movie.cshtml.cs",
+              "DocumentMoniker": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb._QE171094_TranDinhHung\\Pages\\Movies\\Director_Movie.cshtml.cs",
+              "RelativeDocumentMoniker": "MovieWeb._QE171094_TranDinhHung\\Pages\\Movies\\Director_Movie.cshtml.cs",
+              "ToolTip": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb._QE171094_TranDinhHung\\Pages\\Movies\\Director_Movie.cshtml.cs",
+              "RelativeToolTip": "MovieWeb._QE171094_TranDinhHung\\Pages\\Movies\\Director_Movie.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:45:18.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb._QE171094_TranDinhHung\\Program.cs",
+              "RelativeDocumentMoniker": "MovieWeb._QE171094_TranDinhHung\\Program.cs",
+              "ToolTip": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb._QE171094_TranDinhHung\\Program.cs",
+              "RelativeToolTip": "MovieWeb._QE171094_TranDinhHung\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:25:24.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovieRepo.cs",
+              "DocumentMoniker": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_Repo\\MovieRepo.cs",
+              "RelativeDocumentMoniker": "MovieWeb_Repo\\MovieRepo.cs",
+              "ToolTip": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_Repo\\MovieRepo.cs",
+              "RelativeToolTip": "MovieWeb_Repo\\MovieRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:15:55.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb._QE171094_TranDinhHung\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MovieWeb._QE171094_TranDinhHung\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb._QE171094_TranDinhHung\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MovieWeb._QE171094_TranDinhHung\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T03:29:59.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DirectorRepo.cs",
+              "DocumentMoniker": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_Repo\\DirectorRepo.cs",
+              "RelativeDocumentMoniker": "MovieWeb_Repo\\DirectorRepo.cs",
+              "ToolTip": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_Repo\\DirectorRepo.cs",
+              "RelativeToolTip": "MovieWeb_Repo\\DirectorRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:15:45.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDirectorRepo.cs",
+              "DocumentMoniker": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_Repo\\IDirectorRepo.cs",
+              "RelativeDocumentMoniker": "MovieWeb_Repo\\IDirectorRepo.cs",
+              "ToolTip": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_Repo\\IDirectorRepo.cs",
+              "RelativeToolTip": "MovieWeb_Repo\\IDirectorRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:15:35.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMovieRepo.cs",
+              "DocumentMoniker": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_Repo\\IMovieRepo.cs",
+              "RelativeDocumentMoniker": "MovieWeb_Repo\\IMovieRepo.cs",
+              "ToolTip": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_Repo\\IMovieRepo.cs",
+              "RelativeToolTip": "MovieWeb_Repo\\IMovieRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:15:09.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb._QE171094_TranDinhHung\\appsettings.json",
               "RelativeDocumentMoniker": "MovieWeb._QE171094_TranDinhHung\\appsettings.json",
@@ -43,8 +251,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MovieWeb_Repo",
+              "DocumentIndex": 13,
+              "Title": "MovieWeb_Repo.csproj",
               "DocumentMoniker": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_Repo\\MovieWeb_Repo.csproj",
               "RelativeDocumentMoniker": "MovieWeb_Repo\\MovieWeb_Repo.csproj",
               "ToolTip": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_Repo\\MovieWeb_Repo.csproj",
@@ -56,8 +264,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MovieWeb_DAO",
+              "DocumentIndex": 14,
+              "Title": "MovieWeb_DAO.csproj",
               "DocumentMoniker": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_DAO\\MovieWeb_DAO.csproj",
               "RelativeDocumentMoniker": "MovieWeb_DAO\\MovieWeb_DAO.csproj",
               "ToolTip": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_DAO\\MovieWeb_DAO.csproj",
@@ -65,27 +273,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-07-06T02:20:22.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_Repo\\Class1.cs",
-              "RelativeDocumentMoniker": "MovieWeb_Repo\\Class1.cs",
-              "ToolTip": "D:\\2025YEAR\\ToolForDev\\Folk\\RepoStorage\\PRN222_FallPE\\PRN222_PE_TranDinhHung\\MovieWeb_Repo\\Class1.cs",
-              "RelativeToolTip": "MovieWeb_Repo\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T02:19:03.245Z",
               "EditorCaption": ""
             }
           ]

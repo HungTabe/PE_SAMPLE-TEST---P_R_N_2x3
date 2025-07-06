@@ -1,0 +1,59 @@
+﻿@page
+@model Director_MovieModel
+@{
+    ViewData["Title"] = "List of Movies";
+}
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        border: 1px solid black; 
+        padding: 3px;
+    }
+</style>
+<div style="display: flex;">
+    <div style="width: 200px; margin-right: 40px;">
+        <h3>Directors</h3>
+        <ul>
+            @foreach (var director in Model.Directors)
+            {
+                <li><a id="di_@director.Id" href="?directorId=@director.Id">@director.FullName</a></li>
+            }
+        </ul>
+    </div>
+    <div style="flex: 1;">
+        <h3>List of Movies</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Release Date</th>
+                    <th>Description</th>
+                    <th>Language</th>
+                    <th>Director</th>
+                    <th>Stars</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    var rowIndex = 0;
+                }
+                @foreach (var movie in Model.Movies)
+                {
+                    <tr>
+                        <td id="td_title_@rowIndex">@movie.Title</td>
+                        <td id="td_releaseDate_@rowIndex">@(movie.ReleaseDate.HasValue ? movie.ReleaseDate.Value.ToString("MM/dd/yyyy") : "")</td>
+                        <td id="td_description_@rowIndex">@movie.Description</td>
+                        <td id="td_language_@rowIndex">@movie.Language</td>
+                        <td id="td_director_@rowIndex">@movie.DirectorName</td>
+                        <td id="td_stars_@rowIndex">@string.Join(",", movie.Stars)</td>
+                    </tr>
+                    rowIndex++;
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
