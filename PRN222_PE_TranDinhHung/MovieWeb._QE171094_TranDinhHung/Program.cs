@@ -2,6 +2,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddScoped<MovieWeb_Repo.IMovieRepo, MovieWeb_Repo.MovieRepo>();
+builder.Services.AddScoped<MovieWeb_Repo.IDirectorRepo, MovieWeb_Repo.DirectorRepo>();
 
 var app = builder.Build();
 
@@ -21,5 +23,11 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapRazorPages();
+
+// Redirect root URL to /Movies/Director_Movie
+app.MapGet("/", context => {
+    context.Response.Redirect("/Movies/Director_Movie");
+    return Task.CompletedTask;
+});
 
 app.Run();

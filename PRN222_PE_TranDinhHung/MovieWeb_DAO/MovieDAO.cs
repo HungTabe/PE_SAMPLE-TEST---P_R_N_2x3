@@ -33,12 +33,12 @@ namespace MovieWeb_DAO
 
         public async Task<List<Movie>> GetListMovie()
         {
-            return await _context.Movies.ToListAsync();
+            return await _context.Movies.Include("Stars").ToListAsync();
         }
 
         public async Task<List<Movie>> GetListMovieByDirector(int DirectorID)
         {
-            return await _context.Movies.Where(e => e.DirectorId == DirectorID).ToListAsync();
+            return await _context.Movies.Where(e => e.DirectorId == DirectorID).Include("Stars").ToListAsync();
         }
     }
 }
