@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MovieWeb._QE171094_TranDinhHung.props" />
+</Project>

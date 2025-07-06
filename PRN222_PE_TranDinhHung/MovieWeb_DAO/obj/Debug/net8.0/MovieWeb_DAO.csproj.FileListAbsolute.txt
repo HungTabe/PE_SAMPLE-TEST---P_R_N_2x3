@@ -1,0 +1,16 @@
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_DAO\bin\Debug\net8.0\MovieWeb_DAO.deps.json
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_DAO\bin\Debug\net8.0\MovieWeb_DAO.dll
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_DAO\bin\Debug\net8.0\MovieWeb_DAO.pdb
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_DAO\bin\Debug\net8.0\MovieWeb_BO.dll
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_DAO\bin\Debug\net8.0\MovieWeb_BO.pdb
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_DAO\obj\Debug\net8.0\MovieWeb_DAO.csproj.AssemblyReference.cache
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_DAO\obj\Debug\net8.0\MovieWeb_DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_DAO\obj\Debug\net8.0\MovieWeb_DAO.AssemblyInfoInputs.cache
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_DAO\obj\Debug\net8.0\MovieWeb_DAO.AssemblyInfo.cs
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_DAO\obj\Debug\net8.0\MovieWeb_DAO.csproj.CoreCompileInputs.cache
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_DAO\obj\Debug\net8.0\MovieWeb_DAO.sourcelink.json
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_DAO\obj\Debug\net8.0\MovieWeb.AD9FAD12.Up2Date
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_DAO\obj\Debug\net8.0\MovieWeb_DAO.dll
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_DAO\obj\Debug\net8.0\refint\MovieWeb_DAO.dll
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_DAO\obj\Debug\net8.0\MovieWeb_DAO.pdb
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_DAO\obj\Debug\net8.0\ref\MovieWeb_DAO.dll

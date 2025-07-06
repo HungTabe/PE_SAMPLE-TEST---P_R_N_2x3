@@ -1,0 +1,15 @@
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_BO\bin\Debug\net8.0\MovieWeb_BO.deps.json
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_BO\bin\Debug\net8.0\MovieWeb_BO.dll
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_BO\bin\Debug\net8.0\MovieWeb_BO.pdb
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_BO\obj\Debug\net8.0\MovieWeb_BO.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_BO\obj\Debug\net8.0\MovieWeb_BO.AssemblyInfoInputs.cache
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_BO\obj\Debug\net8.0\MovieWeb_BO.AssemblyInfo.cs
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_BO\obj\Debug\net8.0\MovieWeb_BO.csproj.CoreCompileInputs.cache
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_BO\obj\Debug\net8.0\MovieWeb_BO.sourcelink.json
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_BO\obj\Debug\net8.0\MovieWeb_BO.dll
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_BO\obj\Debug\net8.0\refint\MovieWeb_BO.dll
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_BO\obj\Debug\net8.0\MovieWeb_BO.pdb
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_BO\obj\Debug\net8.0\ref\MovieWeb_BO.dll
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_BO\bin\Debug\net8.0\MovieWeb_BO.runtimeconfig.json
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_BO\obj\Debug\net8.0\MovieWeb_BO.csproj.AssemblyReference.cache
+D:\2025YEAR\ToolForDev\Folk\RepoStorage\PRN222_FallPE\PRN222_PE_TranDinhHung\MovieWeb_BO\obj\Debug\net8.0\MovieWeb_BO.genruntimeconfig.cache
